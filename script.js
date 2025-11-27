@@ -343,4 +343,4 @@ elements.whatsappBtn.addEventListener('click', sendWhatsAppResult);
 
 
 document.addEventListener('DOMContentLoaded', initializeGame);
-<script type='text/javascript' src='//pl28148207.effectivegatecpm.com/47/c7/a1/47c7a11c19c849e434caf4a53eee8cd4.js'></script>
+
